@@ -1,0 +1,37 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://i.imgur.com/U9KVZYU.png",
+        "title": "MilkyWay3",
+        "package": "doki.doki.piracy.club.milkyway3",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/U9KVZYU.png",
+        "title": "LendMyPhone3",
+        "package": "doki.doki.piracy.club.lendmyphone3",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/U9KVZYU.png",
+        "title": "Magma Evo",
+        "package": "doki.doki.piracy.club.magmaevo",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/U9KVZYU.png",
+        "title": "Emerald",
+        "package": "doki.doki.piracy.club.emerald",
+        "hideShadow": false
+    },
+    {
+        "url": "https://i.imgur.com/U9KVZYU.png",
+        "title": "Titan",
+        "package": "doki.doki.piracy.club.titan",
+        "hideShadow": false
+    }
+  ]
+}

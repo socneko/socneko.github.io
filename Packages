@@ -1,0 +1,290 @@
+Package: doki.doki.piracy.club.batteryramp
+Architecture: iphoneos-arm
+Version: 1.3.0
+Maintainer: MegaDev
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader
+Filename: ./debians/BatteryRamp.deb
+Size: 57656
+MD5sum: 2ae027653c6e4e63df0cf423142ba8ec
+SHA1: 2374d5415c463868b075516a2e062a70a1a848c6
+SHA256: b44dc084925009165423f56c68e742d237fe7e460713ea24e6993c260668a43a
+SHA512: 191670c5ab0726cc2aee37c7d148bbd9c5dc4f781b7bee8b2f5467fa185bede9b6e71cb0b88040821773b7abb2f2006c7bf9c3c4a332ae956baf7aa01fd4d9d9
+Description: Place your iPhone in a limited state, To decrease charge times
+Name: BatteryRamp
+Author: MegaDev
+
+Package: doki.doki.piracy.club.confirmrotate
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: CardboardFace
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/ConfirmRotate.deb
+Size: 76944
+MD5sum: eabafef89c157bd20c8a2ab5e553c2aa
+SHA1: 757775be0f7b16ebea7789af91e80ffc7239ca0e
+SHA256: b4fd297a32e5fe6eb3302c92452b80f42a45ce51e989dd756a0fad82f93acb46
+SHA512: dd707354555716e5057b8ca6d7206c2de18372b9ab62992e290a54b6a0326fa06c7a00a343033a1e79495fb5d1a9e79d51dc2ca680d500aa329e4029550906d2
+Description: Ask before rotating!
+Name: ConfirmRotate
+Author: CardboardFace
+
+Package: doki.doki.piracy.club.crane
+Architecture: iphoneos-arm
+Version: 1.1.2-3
+Maintainer: opa334
+Depends: firmware (>=11.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Filename: ./debians/Crane.deb
+Size: 242372
+MD5sum: a7f516131c7c9c1308b36eae9bb04a31
+SHA1: 334d98985362c9a70312ad557bc638f8fc3883ab
+SHA256: b53aeb8aab47c2903ccf51fe1ee68464d745d69970079a221d1be264c2d9900d
+SHA512: 387ac0a04f4973859b3fc67c05d2dffa72a6714ea385f59a9f720003407f2dc856731ceed36e0038796da79f951662152d86198953aaa7fbf17852e2e24222be
+Description: Multiple containers for your applications!
+Name: Crane
+Author: opa334
+
+Package: doki.doki.piracy.club.macosnotifications
+Architecture: iphoneos-arm
+Version: 1.1.0
+Maintainer: Jax Roth
+Depends: mobilesubstrate
+Filename: ./debians/Destra.deb
+Size: 52420
+MD5sum: 677bde451222b7ac114d6eb400316a9b
+SHA1: aa77c539d81a6df85e95459267ea2d4a9bfe8a6f
+SHA256: 1857d3e86a9126e8988438f827acc150999d796ee3186ee0a1dc4a23fc8b5de3
+SHA512: c85b20df221a9b11688e4ea96407808ca4003cfec1926be1ac99a23a039bf2db17c5f416ee9d0ce39e1c6417e9851f80038101bfab56738ede339a7f1c27a6d5
+Description: Give your notifications a MacOS Look
+Name: Destra
+Author: Jax Roth
+
+Package: doki.doki.piracy.club.emerald
+Architecture: iphoneos-arm
+Version: 1.0.7
+Maintainer: LaughingQuoll
+Installed-Size: 2644
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./debians/Emerald.deb
+Size: 178964
+MD5sum: 59456b665539c469224ef08b2b3531d2
+SHA1: 44e55a11f0449a0f57d919ac0257fa92b19f109d
+SHA256: ff91f9649f34949d093dea2aaf95fa46fa7ce67b7a02ea03fe2733d0e6c7e5f1
+SHA512: be6767377cef1f5936d7ad8b58541130aeeed2e0de49087044d64bb64508e0f2a91e80ce2614d51c9ac706919a67c4012d7aa8294eea5a4a8ab300560e8c1573
+Description: Status Bar Pills and Platters
+Name: Emerald
+Author: LaughingQuoll
+
+Package: doki.doki.piracy.club.fireflyx
+Architecture: iphoneos-arm
+Version: 1.3
+Maintainer: Sirius24
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), com.creaturesurvive.libcscolorpicker, com.spark.libsparkapplist
+Filename: ./debians/FireflyX.deb
+Size: 655840
+MD5sum: 77bc771429ea01024fc776b2330adcb2
+SHA1: f380eabcf4116a8c42039fa77d836d23fca51000
+SHA256: 86081463d291bfea1b6842d4839e2363fa2799e6546eb3ecfa6b3cabbf6512e1
+SHA512: 173c2cc78017d85382dfe9b2ff94107f8f9fbb56f2e28605601e3a6e0ef1dabb88ca340012b1b22fd3909c6cd61dc2e806f7e636dd2675e6e10538227ec6cfc9
+Description: Replace your badge with a glowing icon, and animations!
+Name: FireflyX
+Author: Sirius24
+
+Package: doki.doki.piracy.club.kalm
+Architecture: iphoneos-arm
+Version: 3.0.2
+Maintainer: ubik <cydia@ubikstyl.es>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Filename: ./debians/Kalm.deb
+Size: 268160
+MD5sum: a71fd1080a45d4f1296ec83ccf03c3a9
+SHA1: 8b9808d57b7c6c3ffcef374004851010f6223a27
+SHA256: 6bb2f5bd165e993698923fbb9238dfb69883ad69e84b20011c7d312222166a72
+SHA512: 181bb98de0a4427b54a5706e430df38d1bc318b9f585e668f31d35236a160ad0231a64016f1823f0a2582ac8eb2158be236f4ac5e6ffacbee98717240c374c4f
+Description: A beautiful first sight.
+Name: Kalm
+Author: ubik <cydia@ubikstyl.es>
+
+Package: doki.doki.piracy.club.keyboardcolor
+Architecture: iphoneos-arm
+Version: 2.0-5
+Maintainer: ahmedmakls
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debians/KeyboardColours.deb
+Size: 390532
+MD5sum: 1fb5fa83f1944da4ef77cc0de51e5954
+SHA1: 515f8062fe0690fcf8aba7a24bec5348d7195c09
+SHA256: accb8fb6755afa5822c066daef9233e5a638920e1109522cc41d98d7437461a6
+SHA512: 2950b6be20adbb28a642861cc80c398ef2ff3341fc8001799f26b17f89ffa5c89c5e41afd19d1c12ed2460e56c35f928386d6e92a15f04bbbb7059285b0db2b2
+Description: Customize the keyboard colors
+Name: KeyboardColor
+Author: ahmedmakls <makhl.2266@yahoo.com>
+
+Package: doki.doki.piracy.club.lendmyphone3
+Architecture: iphoneos-arm
+Version: 1.2
+Maintainer: Geometric Software
+Depends: mobilesubstrate, se.geometric.graphite(>=1.1.1), firmware(>=13.0), firmware(<<14.0), preferenceloader
+Filename: ./debians/LendMyPhone3.deb
+Size: 7117064
+MD5sum: 8e94ecf2be34788fef85d271972b4b06
+SHA1: cae6aef643220c46796fcc91d893ee60317f7dc7
+SHA256: dee6a8de6e34eb5eaee36c2df64bc95f5c21a6e7b022699f9e75c80a7a4fe628
+SHA512: 766ab80e11439eefb34b3c9a1195784bf723b4f0ffb106bcbaa62920531a7827b76c29ba693bb1538a207e51b717b39a451437a42976f7d1362ab24207211f11
+Description: A true guest mode for iOS
+Name: LendMyPhone 3
+Author: Geometric Software
+
+Package: doki.doki.piracy.club.lynx
+Architecture: iphoneos-arm
+Version: 1.9.5-2
+Maintainer: MTAC <mtactheming@gmail.com>
+Depends: mobilesubstrate, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Conflicts:
+Filename: ./debians/Lynx.deb
+Size: 1039828
+MD5sum: cb3c572f6df25e9a12766548b904c6b5
+SHA1: c681e61e10efca4f15d68fe88ef2bb983439cf57
+SHA256: 6c017cf0118d69f4a885ebd9a093a556309a36e148949aba5633d1628a425429
+SHA512: 7baff5c2a7ff57993e5cf3c84c6c9fb934687922e1646557d2b9890c2b5cde9a6afc21ddd00c3a2649fc1dc288e7cf93d9bbc8382c6db4ccf2020dfa35a6ac82
+Description: Ultimate device customization
+Name: Lynx
+Author: MTAC <mtactheming@gmail.com>
+
+Package: doki.doki.piracy.club.magmaevo
+Architecture: iphoneos-arm
+Version: 2.0.10
+Maintainer: NoisyFlake
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Filename: ./debians/Magma Evo.deb
+Size: 1467796
+MD5sum: e8ce88c3a5f572a9dc4536ef41a9039b
+SHA1: 2c86731ca863a8b80666a0c970b716e617f6346e
+SHA256: 5a6314276c641d9d378f3bad72a9c303b50b5fd9942dc835eaef92c84d5c06db
+SHA512: 29881ee81deb444acdc7acbb0cc93dde51725f0bac21fb5e32be166cba6e70e14b654e54fa47e2a2f992823e8d3e76f6557687113a2f302ca75a86e127d6a0ac
+Description: Redefine your control centre
+Name: Magma Evo
+Author: NoisyFlake
+
+Package: doki.doki.piracy.club.milkyway3
+Architecture: iphoneos-arm
+Version: 0.2.8
+Maintainer: YuriDevTeam
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debians/MilkyWay3.deb
+Size: 71456
+MD5sum: 0865eacbf3e9130faac797537c1cfec4
+SHA1: 23685da55c395d51a62340c4508f94c7a7d7ac81
+SHA256: c32647ffa19a4318aed3b4c6139470fc3ab862045b56f560525eed17adba99ee
+SHA512: adfb0e8a6699507d9b9dca8bbbb348b7966c33c7380d6e09cbc93acefdd687c9e168ce7c5559a3d70bb2a63294dff5d78f688e66fb138f5bd320823df3ce1d3d
+Description: multitasking for iOS14.
+Name: MilkyWay3
+Author: YuriDevTeam
+
+Package: doki.doki.piracy.club.noctis13
+Architecture: iphoneos-arm
+Version: 1.2.8
+Maintainer: LaughingQuoll <me@laughingquoll.net>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.laughingquoll.prefixui, com.spark.libsparkapplist
+Conflicts: com.laughingquoll.noctisxi
+Filename: ./debians/NoctisNeo.deb
+Size: 72736
+MD5sum: d90fe95b1ddb128035c1950d1e1ef372
+SHA1: 67a319b7539d7da997919819693da3c6903a5ec4
+SHA256: 1a8f7287c750d45433632409f59f78a1aa1ecd145f7ee5c8e1667f511094d2f8
+SHA512: ecf737841acbb6bc6781202df02d0e2175d9f232b42d084fffe98964ebb61f49b64d9050eeed24aa62c164b4f7d56a603865857e1fc56b07bd344a1ead14f681
+Description: Dark mode, your way.
+Name: Noctis Neo
+Author: LaughingQuoll <me@laughingquoll.net>
+
+Package: doki.doki.piracy.club.prysm
+Architecture: iphoneos-arm
+Version: 1.9.1
+Maintainer: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
+Filename: ./debians/Prysm.deb
+Size: 827504
+MD5sum: 9118ba801d5dfc4a72e6b35349a91c1e
+SHA1: 3d931321d04ad53fafc05e162d6fe5e9033b6408
+SHA256: fc8c5e3c9db6f6a2fcb6dd807fe30595e334ae1051b96a4d32eedee6d4c02788
+SHA512: 71228611932e15b5aba322c107658c96edf4da6fab823b9a22abf41024daeea6abb83bc2094fac4e268823cbf3bbdfd924f922a061fef4f228858c80cb2a11ca
+Description: Your control center, reimagined.
+Name: Prysm
+Author: LaughingQuoll
+
+Package: doki.doki.piracy.club.quart
+Architecture: iphoneos-arm
+Version: 1.4.6.1
+Maintainer: LaughingQuoll
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./debians/Quart.deb
+Size: 1072896
+MD5sum: 94f8bf1790817bd95cea7c721f9aed72
+SHA1: e87a9ddd6a6e504317f803a449685aeeeecf01a0
+SHA256: b52c89bc0e2523f6f2c254feade3c68a0c19660a6fd449cf4a387ed2af307967
+SHA512: c853bade31ad03bf419f30ded40364929845588fbf3afb8ef52588dd8d6e8e49874c644cd67d8e97e244f947c3bed90a6db54e96cc48a5d94411bceb96aba340
+Description: Notifications, redefined.
+Name: Quart
+Author: LaughingQuoll
+
+Package: doki.doki.piracy.club.rainbow
+Architecture: iphoneos-arm
+Version: 1.1.2
+Maintainer: Justin Proulx
+Depends: mobilesubstrate,preferenceloader,applist,ws.hbang.common (>= 1.11),firmware (>= 11.0)
+Filename: ./debians/Rainbow.deb
+Size: 114280
+MD5sum: db46877647aa9cd5389f5f39d33b36de
+SHA1: b3787ccbebe4f168d6bb59f61b5b4e3c01987336
+SHA256: 9db4a61c893ba61623d5432d7bd5733918674a6f7aafae7c1e902a1dc0e66a82
+SHA512: f8fa08b2dc1915b362f13f8fbcf2ca50dd28609485ed83d6f3654c9bc596da852dea38bdb2632833ca5ef693d8a0872d47dfa32aba22c40031e6d69c263e00ec
+Description: Customize iOS' system tint to your liking!
+Name: Rainbow
+Author: Justin Proulx
+
+Package: doki.doki.piracy.club.shortlook
+Architecture: iphoneos-arm
+Version: 1.0.21
+Maintainer: Ayden Panhuyzen
+Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
+Filename: ./debians/ShortLook.deb
+Size: 22036
+MD5sum: 53ad2eb3b84dfb9aa19061b9c955ae74
+SHA1: 1d8e0d5b41ba7045a8b5034effc67214e518422f
+SHA256: 599c09976462e6b24a28bb267f328e1a1673f44fb2829993cbdc14921f08d6af
+SHA512: ae2b335ab9ed03e35ca3a33a6406f5ac9d8f8ab26a1ef2a979c746297402d6c256cfcfc0b7f7a8e8c7e0558b4c913670a9f865ecbe36da80bc2b80c72a6282d8
+Description: ShortLook shows you your notifications at a glance. ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.
+Name: ShortLook
+Author: Dynastic
+
+Package: doki.doki.piracy.club.switchus
+Architecture: iphoneos-arm
+Version: 2.0.3
+Maintainer: SynnyG <synnyg.devjb@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), applist, ws.hbang.common (>= 1.11), preferenceloader
+Filename: ./debians/Switchus.deb
+Size: 362652
+MD5sum: ebc5b2fa9d5190b4c957a87500160006
+SHA1: d39ff1c1592f918ada4b79fdd3fd8db61d3072af
+SHA256: 69da5b94b55f8a6f67f3fe591adf61ab0f2d54990e865557b1e352c464ab075e
+SHA512: bce83f743206a673d2d485aa5443e8b6b1a77c5134059fb809bd58005dc0fb770a629fed8a026a63024115138196a40452bca649cb38694595b8fd072aea7a90
+Description: Customize the App Switcher like never before !
+Name: Switchus
+Author: SynnyG <synnyg.devjb@gmail.com>
+
+Package: doki.doki.piracy.club.titan
+Architecture: iphoneos-arm
+Version: 1.0.3
+Maintainer: tcbrooks <thesaltcracka@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (<< 7.0)
+Conflicts: com.spicat.youpip
+Filename: ./debians/Titan.deb
+Size: 123336
+MD5sum: 43278d7753d65230a4260dbb92b9f026
+SHA1: b662f1f39b38aae315844c39f92077d6c9cd89dd
+SHA256: cb71bcb66ffeeda57cff0be7ca3b16afb310b4e70d24086cc479f1570c0f1cba
+SHA512: 7e16a73f9919a473b1caf3e1f2716b8a918b8039f7533fd8c47cb6fdb32fea4c9ec24b7a8487746f7795ceac0c6d9db8792a550091f97336d21f6693cbc2761e
+Description: True picture in picture support for all your favourite apps
+Name: Titan
+Author: tcbrooks <thesaltcracka@gmail.com>
+
