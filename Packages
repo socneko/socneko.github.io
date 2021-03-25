@@ -248,11 +248,11 @@ Version: 1.0.21
 Maintainer: Ayden Panhuyzen
 Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
 Filename: ./debians/ShortLook.deb
-Size: 22036
-MD5sum: 53ad2eb3b84dfb9aa19061b9c955ae74
-SHA1: 1d8e0d5b41ba7045a8b5034effc67214e518422f
-SHA256: 599c09976462e6b24a28bb267f328e1a1673f44fb2829993cbdc14921f08d6af
-SHA512: ae2b335ab9ed03e35ca3a33a6406f5ac9d8f8ab26a1ef2a979c746297402d6c256cfcfc0b7f7a8e8c7e0558b4c913670a9f865ecbe36da80bc2b80c72a6282d8
+Size: 1375108
+MD5sum: 343a7052a4ce76042645115633388eae
+SHA1: 36ac5927064a2a2cf90b3f4e21e704519d2b21a9
+SHA256: f75bc042cfb90d7aef88f59fe1c0efe04e85c0da8233ddf2bb0485e11c272df9
+SHA512: 6e70f76f994f618752601ce0710e2733313d2ebeb38c9c6693609685435f40e041e2e1c9425aa3cd822caca19fbc5a19461d2db25a9948b87aa7e5e6ac1abebf
 Description: ShortLook shows you your notifications at a glance. ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.
 Name: ShortLook
 Author: Dynastic
