@@ -13,6 +13,22 @@ Description: Place your iPhone in a limited state, To decrease charge times
 Name: BatteryRamp
 Author: MegaDev
 
+Package: doki.doki.piracy.club.boxy4
+Architecture: iphoneos-arm
+Version: 4.2.6
+Maintainer: William Vabrinskas <wvabrinskas@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Filename: ./debians/Boxy4.deb
+Size: 2673716
+MD5sum: 7a0eefcd73f4c99ad5c9662da8a8e8a1
+SHA1: fbcb2f1a0292a755b78adf920e24cfb29b984904
+SHA256: acc9719b343bb1734c69a6af439d52320f3620b4a7657dee296d6cc146a8b6b6
+SHA512: 4e24e4ee66ecbee60350c0a7556ca91a5b58185b73b1add56ed914e39e9de1c376e85eae18b673e505bb5b207cae5afd07d8017f311413ddce1e6002450b8d25
+Description: Fully customize your icon layout! Have you ever run into an issue with space in your SpringBoard or are you just bored with the default layout of icons? Well, Boxy can fix both of those issues. Your icon layout is fully customizable with the variety of options configurable in the settings pane. You can adjust how far each icon is from each edge of the screen and how far each icon is from one another. These combinations can provide some pretty cool layouts. If you aren't the creative type or don't want to be bothered with testing each setting, there are presets available for you to choose from. You can align you icons in the the top half of the screen or the bottom half or even the top corners of the screen. Anything is really possible.Boxy also allows for more space for Dashboard X widgets. You no longer have to compromise with which apps you want on the home page of your SpringBoard, you can now have all of them on the screen plus your favorite widgets! Use it however you like, if you find a use for it that I didn't mention please don't hesitate to contact me and let me know, I love hearing feedback about my tweaks. Boxy is fully compatible with all current devices!
+Name: Boxy 4 (iOS 13-14)
+Author: William Vabrinskas <wvabrinskas@gmail.com>
+
 Package: doki.doki.piracy.club.confirmrotate
 Architecture: iphoneos-arm
 Version: 1.0
@@ -42,6 +58,21 @@ SHA512: 387ac0a04f4973859b3fc67c05d2dffa72a6714ea385f59a9f720003407f2dc856731cee
 Description: Multiple containers for your applications!
 Name: Crane
 Author: opa334
+
+Package: doki.doki.piracy.club.cyanea
+Architecture: iphoneos-arm
+Version: 1.0.1
+Maintainer: Sirius24
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
+Filename: ./debians/Cyanea.deb
+Size: 504148
+MD5sum: 2b56bb90d1ae6bc7323a37740f497953
+SHA1: 946bc198d785d1f53a7bbb224a3c4e8407849c28
+SHA256: a875469842885d902eff5853349558835c3ff56fba3c13bf9de94213b8696f1d
+SHA512: be622afc010c2c19b3595c009d22343dc1a4dee4d1760ed58fbaddc77cb70556478cb609ad4c494fc47a8502b1b03aa16b6bcfe17abd673ac4cabe5f42e74167
+Description: System UI Customization
+Name: Cyanea
+Author: Sirius24
 
 Package: doki.doki.piracy.club.macosnotifications
 Architecture: iphoneos-arm
@@ -88,6 +119,21 @@ SHA512: 173c2cc78017d85382dfe9b2ff94107f8f9fbb56f2e28605601e3a6e0ef1dabb88ca3400
 Description: Replace your badge with a glowing icon, and animations!
 Name: FireflyX
 Author: Sirius24
+
+Package: doki.doki.piracy.club.intelligentpass3
+Architecture: iphoneos-arm
+Version: 2.0.1
+Maintainer: Geometric Software
+Depends: mobilesubstrate, firmware(>=13.0), firmware(<<14.0), preferenceloader, se.geometric.graphite
+Filename: ./debians/IntelligentPass3.deb
+Size: 131740
+MD5sum: b0a1d4fbb6deee990b5e6ae294da63be
+SHA1: ab90c82397c23d877318df3ea11b437e8aa6e1e5
+SHA256: c442936a8e839e271c40ec449ab411428cbdd7d36b77b7ae88555ec4b40b416f
+SHA512: 7d94d03a631b48e53544d3dc677b0f12051829d5bf89c7bba89ecf40c9b9b6d54fefd0332792682213607ed38b1de37941ccd60d0bb4505615cb59e525d41024
+Description: Disable passcode when not necessary
+Name: IntelligentPass 3
+Author: Geometric Software
 
 Package: doki.doki.piracy.club.kalm
 Architecture: iphoneos-arm
@@ -149,6 +195,21 @@ SHA256: 6c017cf0118d69f4a885ebd9a093a556309a36e148949aba5633d1628a425429
 SHA512: 7baff5c2a7ff57993e5cf3c84c6c9fb934687922e1646557d2b9890c2b5cde9a6afc21ddd00c3a2649fc1dc288e7cf93d9bbc8382c6db4ccf2020dfa35a6ac82
 Description: Ultimate device customization
 Name: Lynx
+Author: MTAC <mtactheming@gmail.com>
+
+Package: doki.doki.piracy.club.lynx-2
+Architecture: iphoneos-arm
+Version: 2.0.5
+Maintainer: MTAC <mtactheming@gmail.com>
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader (>= 2.2.3), ws.hbang.common
+Filename: ./debians/Lynx2.deb
+Size: 1615412
+MD5sum: b4c775734b5dd6a156c7713fa027d995
+SHA1: e8deafb862999e720e9c0f29c73355ceeb932039
+SHA256: 99d63db0fdcacae43e36c42d0f2219637977f854e00f24ca0cec20f53a335036
+SHA512: d61206b1598a67560c411f0bdac7b84f87a939d310c5e09b6acd04a5e969be872977f34c554716ace6272837a084eed40658feaea6517e4bb1ee126e4c638818
+Description: Ultimate iDevice Customization for iOS 14+
+Name: Lynx 2
 Author: MTAC <mtactheming@gmail.com>
 
 Package: doki.doki.piracy.club.magmaevo
