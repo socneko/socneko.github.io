@@ -13,6 +13,21 @@ Description: Place your iPhone in a limited state, To decrease charge times
 Name: BatteryRamp
 Author: MegaDev
 
+Package: doki.doki.piracy.club.bigsurcenter
+Architecture: iphoneos-arm
+Version: 1.0.3
+Maintainer: nicho1asdev <nicholasmusumeci@icloud.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.6), ws.hbang.alderis (>= 1.1)
+Filename: ./debians/BigSurCentre.deb
+Size: 693956
+MD5sum: 32c269614f162e2f76fe60b966c6bd35
+SHA1: 677ab3ad349cf88c85580e2dcd2c93b5ee428503
+SHA256: 54fd3dc2a6897a3b756ead0f824f5ecff240ffed62799dd831d6a7669d2c4098
+SHA512: 1856d29f092c32da207b9c14992fe180d552ae521c1f5b4d3a45006609bde77c5a7712c3630d2e287321482887110b460427f44ef4f216a2c61d5f309d910965
+Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the new control center in MacOS Big Sur.
+Name: BigSurCenter
+Author: nicho1asdev <nicholasmusumeci@icloud.com>
+
 Package: doki.doki.piracy.club.boxy4
 Architecture: iphoneos-arm
 Version: 4.2.6
@@ -134,6 +149,21 @@ SHA512: 7d94d03a631b48e53544d3dc677b0f12051829d5bf89c7bba89ecf40c9b9b6d54fefd033
 Description: Disable passcode when not necessary
 Name: IntelligentPass 3
 Author: Geometric Software
+
+Package: doki.doki.piracy.club.jellylockreborn
+Architecture: iphoneos-arm
+Version: 1.0
+Maintainer: MegaDev
+Depends: mobilesubstrate,ws.hbang.common,preferenceloader,ws.hbang.alderis (>= 1.1),com.spark.libsparkapplist
+Filename: ./debians/JellyLockReborn.deb
+Size: 1551984
+MD5sum: dbf96e84891494b202b61a05e988d72a
+SHA1: d0bb5e08b0bac4dfa4a335677c594d4decf33040
+SHA256: a511803ad5ccfc8ff70f08b31c6a4e2bc8d080091efdb7c5fbda30e6045df0cf
+SHA512: 7c2550520e6594112f6a9625e19742e2903e77736ac4226f3a743b841dd2d11d7f06f17db0287225d15205e1444c148883324e1194dfc185623039eb8ecfd332
+Description: A beautifully simple lockscreen application launcher for iOS 14.
+Name: JellyLock Reborn
+Author: MegaDev
 
 Package: doki.doki.piracy.club.kalm
 Architecture: iphoneos-arm
