@@ -13,21 +13,6 @@ Description: Place your iPhone in a limited state, To decrease charge times
 Name: BatteryRamp
 Author: MegaDev
 
-Package: doki.doki.piracy.club.bigsurcenter
-Architecture: iphoneos-arm
-Version: 1.0.3
-Maintainer: nicho1asdev <nicholasmusumeci@icloud.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader, com.opa334.ccsupport, com.rpetrich.rocketbootstrap (>= 1.0.6), ws.hbang.alderis (>= 1.1)
-Filename: ./debians/BigSurCentre.deb
-Size: 693956
-MD5sum: 32c269614f162e2f76fe60b966c6bd35
-SHA1: 677ab3ad349cf88c85580e2dcd2c93b5ee428503
-SHA256: 54fd3dc2a6897a3b756ead0f824f5ecff240ffed62799dd831d6a7669d2c4098
-SHA512: 1856d29f092c32da207b9c14992fe180d552ae521c1f5b4d3a45006609bde77c5a7712c3630d2e287321482887110b460427f44ef4f216a2c61d5f309d910965
-Description: BigSurCenter replaces the default iOS control center with a new lightweight and elegant one inspired by the new control center in MacOS Big Sur.
-Name: BigSurCenter
-Author: nicho1asdev <nicholasmusumeci@icloud.com>
-
 Package: doki.doki.piracy.club.boxy4
 Architecture: iphoneos-arm
 Version: 4.2.6
@@ -135,6 +120,21 @@ Description: Replace your badge with a glowing icon, and animations!
 Name: FireflyX
 Author: Sirius24
 
+Package: doki.doki.piracy.club.grupi
+Architecture: iphoneos-arm
+Version: 2.1
+Maintainer: Soongyu Kwon
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debians/Grupi.deb
+Size: 140904
+MD5sum: c5d3205d6b4e981143f70ae56d6862de
+SHA1: 4ba5dc5e76e9565ff9a73f3f86099efab5facac8
+SHA256: f1521cda099fa7fc0a4e2c4c5eb5ba5858e97e40b86d61125b4fe1797d7b7959
+SHA512: facba1a8627d6c4ca1c417f9bb9427ba347dac34efa9ab2730266ec5189e4583e69152d298ba626fbdf77543452fef696419ec85edb0252f9274ae2201ef03e6
+Description: Grouped Notifications for iOS 11 ~ iOS 14
+Name: Grupi
+Author: Soongyu Kwon & Timeloop
+
 Package: doki.doki.piracy.club.intelligentpass3
 Architecture: iphoneos-arm
 Version: 2.0.1
@@ -149,21 +149,6 @@ SHA512: 7d94d03a631b48e53544d3dc677b0f12051829d5bf89c7bba89ecf40c9b9b6d54fefd033
 Description: Disable passcode when not necessary
 Name: IntelligentPass 3
 Author: Geometric Software
-
-Package: doki.doki.piracy.club.jellylockreborn
-Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: MegaDev
-Depends: mobilesubstrate,ws.hbang.common,preferenceloader,ws.hbang.alderis (>= 1.1),com.spark.libsparkapplist
-Filename: ./debians/JellyLockReborn.deb
-Size: 1551984
-MD5sum: dbf96e84891494b202b61a05e988d72a
-SHA1: d0bb5e08b0bac4dfa4a335677c594d4decf33040
-SHA256: a511803ad5ccfc8ff70f08b31c6a4e2bc8d080091efdb7c5fbda30e6045df0cf
-SHA512: 7c2550520e6594112f6a9625e19742e2903e77736ac4226f3a743b841dd2d11d7f06f17db0287225d15205e1444c148883324e1194dfc185623039eb8ecfd332
-Description: A beautifully simple lockscreen application launcher for iOS 14.
-Name: JellyLock Reborn
-Author: MegaDev
 
 Package: doki.doki.piracy.club.kalm
 Architecture: iphoneos-arm
@@ -180,21 +165,6 @@ SHA512: 181bb98de0a4427b54a5706e430df38d1bc318b9f585e668f31d35236a160ad0231a6401
 Description: A beautiful first sight.
 Name: Kalm
 Author: ubik <cydia@ubikstyl.es>
-
-Package: doki.doki.piracy.club.keyboardcolor
-Architecture: iphoneos-arm
-Version: 2.0-5
-Maintainer: ahmedmakls
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
-Filename: ./debians/KeyboardColours.deb
-Size: 390532
-MD5sum: 1fb5fa83f1944da4ef77cc0de51e5954
-SHA1: 515f8062fe0690fcf8aba7a24bec5348d7195c09
-SHA256: accb8fb6755afa5822c066daef9233e5a638920e1109522cc41d98d7437461a6
-SHA512: 2950b6be20adbb28a642861cc80c398ef2ff3341fc8001799f26b17f89ffa5c89c5e41afd19d1c12ed2460e56c35f928386d6e92a15f04bbbb7059285b0db2b2
-Description: Customize the keyboard colors
-Name: KeyboardColor
-Author: ahmedmakls <makhl.2266@yahoo.com>
 
 Package: doki.doki.piracy.club.lendmyphone3
 Architecture: iphoneos-arm
@@ -333,20 +303,20 @@ Description: Customize iOS' system tint to your liking!
 Name: Rainbow
 Author: Justin Proulx
 
-Package: doki.doki.piracy.club.shortlook
+Package: doki.doki.piracy.club.snapper2
 Architecture: iphoneos-arm
-Version: 1.0.21
-Maintainer: Ayden Panhuyzen
-Depends: mobilesubstrate, firmware (>= 11.0), co.dynastic.ios.lib.flora
-Filename: ./debians/ShortLook.deb
-Size: 1375108
-MD5sum: 343a7052a4ce76042645115633388eae
-SHA1: 36ac5927064a2a2cf90b3f4e21e704519d2b21a9
-SHA256: f75bc042cfb90d7aef88f59fe1c0efe04e85c0da8233ddf2bb0485e11c272df9
-SHA512: 6e70f76f994f618752601ce0710e2733313d2ebeb38c9c6693609685435f40e041e2e1c9425aa3cd822caca19fbc5a19461d2db25a9948b87aa7e5e6ac1abebf
-Description: ShortLook shows you your notifications at a glance. ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.
-Name: ShortLook
-Author: Dynastic
+Version: 2.5.8
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=12.1)
+Filename: ./debians/Snapper2.deb
+Size: 345484
+MD5sum: 368ef4bab94385eeab1f8bb7465dd95c
+SHA1: 050275cf6dae0ff5bdbde9495b263e6f1ff8b7fc
+SHA256: e1b5aec285ded6aeeffabbb2f67a74cb30fbd67fca79fb9f75bb103eaccc38da
+SHA512: f4999b833648aaf5e2a618b787e27c0185f862913b6c50d7a506febf114b57c48bc3ec366cea0c91c92561f60afbd16b7d46825c24ddb6f87639fb9026e212b2
+Description: Pin screenshots on the screen.
+Name: Snapper 2
+Author: Jonathan Winger-lang
 
 Package: doki.doki.piracy.club.switchus
 Architecture: iphoneos-arm
